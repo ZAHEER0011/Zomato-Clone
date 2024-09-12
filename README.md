@@ -2,6 +2,8 @@ Zomato Clone - Non-Responsive
 
 This repository contains a non-responsive clone of the popular food delivery and restaurant discovery platform, Zomato. The project is built entirely using HTML and CSS, aiming to replicate the basic look and feel of the Zomato website.
 
+Link of Zomato Clone - https://zaheer0011.github.io/Zomato-Clone/
+
 Technologies Used
 
     - HTML: Structure of the web pages.
